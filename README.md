@@ -1,4 +1,4 @@
-# SQL Data Warehouse Analysis Project
+# SQL Data Warehouse Analysis Project 📊📉
 
 This project delivers two analytical reports built in SQL: 
 1) **Customer Report** that consolidates customer behavior, segmentation, and lifecycle KPIs,
