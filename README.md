@@ -1,5 +1,10 @@
 # SQL Data Warehouse Analysis Project 📊📉
 
+
+![Project](https://img.shields.io/badge/Project-SQL_Data_Analysis-lightyellow)
+[![SQL Course](https://img.shields.io/badge/SQL_Course-Data_With_Baraa-ff69b4)](https://academy.datawithbaraa.com/l/pdp/sql-complete-course)
+
+
 This project delivers two analytical reports built in SQL: 
 1) **Customer Report** that consolidates customer behavior, segmentation, and lifecycle KPIs,
 2) **Product Report** that analyzes product performance through revenue-based segmentation, sales metrics, and time-based indicators.
