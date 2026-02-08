@@ -92,4 +92,4 @@ SELECT
 FROM customer_aggregation
 
 -- 3) USE: 
-SELECT * FROM gold.report_customersv
+	SELECT * FROM gold.report_customersv
